@@ -1,0 +1,13 @@
+D:\Curso CSHARP\Ex_video_60\Ex_video_60\bin\Debug\netcoreapp3.1\Ex_video_60.exe
+D:\Curso CSHARP\Ex_video_60\Ex_video_60\bin\Debug\netcoreapp3.1\Ex_video_60.deps.json
+D:\Curso CSHARP\Ex_video_60\Ex_video_60\bin\Debug\netcoreapp3.1\Ex_video_60.runtimeconfig.json
+D:\Curso CSHARP\Ex_video_60\Ex_video_60\bin\Debug\netcoreapp3.1\Ex_video_60.runtimeconfig.dev.json
+D:\Curso CSHARP\Ex_video_60\Ex_video_60\bin\Debug\netcoreapp3.1\Ex_video_60.dll
+D:\Curso CSHARP\Ex_video_60\Ex_video_60\bin\Debug\netcoreapp3.1\Ex_video_60.pdb
+D:\Curso CSHARP\Ex_video_60\Ex_video_60\obj\Debug\netcoreapp3.1\Ex_video_60.csprojAssemblyReference.cache
+D:\Curso CSHARP\Ex_video_60\Ex_video_60\obj\Debug\netcoreapp3.1\Ex_video_60.AssemblyInfoInputs.cache
+D:\Curso CSHARP\Ex_video_60\Ex_video_60\obj\Debug\netcoreapp3.1\Ex_video_60.AssemblyInfo.cs
+D:\Curso CSHARP\Ex_video_60\Ex_video_60\obj\Debug\netcoreapp3.1\Ex_video_60.csproj.CoreCompileInputs.cache
+D:\Curso CSHARP\Ex_video_60\Ex_video_60\obj\Debug\netcoreapp3.1\Ex_video_60.dll
+D:\Curso CSHARP\Ex_video_60\Ex_video_60\obj\Debug\netcoreapp3.1\Ex_video_60.pdb
+D:\Curso CSHARP\Ex_video_60\Ex_video_60\obj\Debug\netcoreapp3.1\Ex_video_60.genruntimeconfig.cache
