@@ -22,14 +22,14 @@ namespace Ex_video_60
                 Console.Write("Digite o valor do depósito inicial: ");
                 double d_i = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 c = new ContaBancaria(n_conta, titular, d_i);
-                Console.WriteLine("\nDados da conta:\nConta {0}, Titular: {1}, Saldo: R$ {2}", c.Numero, 
-                c.Titular, c.Saldo.ToString("F2", CultureInfo.InvariantCulture) + "\n");
             }
             else
             {
                 c = new ContaBancaria(n_conta, titular);
-                Console.WriteLine("\n" + c + "\n");
             }
+
+            Console.WriteLine("\nDados da conta:\nConta {0}, Titular: {1}, Saldo: R$ {2}", c.Numero,
+            c.Titular, c.Saldo.ToString("F2", CultureInfo.InvariantCulture) + "\n");
 
             Console.Write("Digite o valor do depósito: ");
             double dep = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
