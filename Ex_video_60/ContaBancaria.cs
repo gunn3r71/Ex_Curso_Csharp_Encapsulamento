@@ -16,7 +16,8 @@ namespace Ex_video_60
 
         public ContaBancaria(int numero, string titular, double deposito_i) : this(numero,titular) //Este this é usado para
         {                                                                                         //Poupar código
-            Saldo = deposito_i;
+            //Saldo = deposito_i; toda vez que formos realizar um depósio é interessante utilizar o método
+            Deposito(deposito_i);
         }
 
  
